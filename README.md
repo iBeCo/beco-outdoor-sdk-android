@@ -62,7 +62,7 @@ buildscript {
         }
     }
 	dependencies {
-        classpath "org.beco:config:2.0"
+        classpath "org.beco:config:1.0"
     }
 }
 ```
