@@ -20,7 +20,7 @@ Then in App build.gradle add
 
 ```
 dependencies{
-	implementation 'com.beco.outdoor:sdk:3.1'
+	implementation 'com.beco.outdoor:sdk:3.2'
 }
 ```
 
